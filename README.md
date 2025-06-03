@@ -21,7 +21,7 @@ Cada proyecto que desarrollo es una oportunidad para crecer, resolver problemas 
 - **Desarrollo web**: HTML, CSS  
 - **Desarrollo móvil**: Android (Java)  
 - **Sistemas operativos**: Windows 10/11, Windows Server 2019, Linux  
-- **ERP**: Dynamics 365 Business Central (usuario desde 2018)
+- **ERP**: Dynamics 365 Business Central (5 años como usuario)
 
 ---
 
