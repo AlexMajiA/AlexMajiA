@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Alejandro Martínez Jiménez</h1>
+<h1 align="center">Hola, soy Alejandro Martínez Jiménez</h1>
 <h3 align="center">Desarrollador Java | Spring Boot | Técnico Superior DAM</h3>
 
 ---
@@ -12,7 +12,7 @@ Cada proyecto que desarrollo es una oportunidad para crecer, resolver problemas 
 
 ---
 
-### 📊 Tecnologías con las que trabajo
+📊 **Tecnologías con las que trabajo**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMajiA&layout=compact&hide=batchfile,shell,haskell&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
