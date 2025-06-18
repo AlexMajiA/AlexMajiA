@@ -12,7 +12,7 @@ Cada proyecto que desarrollo es una oportunidad para crecer, resolver problemas 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Tecnologías con las que trabajo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMajiA&layout=compact&hide=batchfile,shell,haskell&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -69,25 +69,11 @@ Cada proyecto que desarrollo es una oportunidad para crecer, resolver problemas 
 
 ---
 
-🌱 **Actualmente aprendiendo**
-
-- Spring Security y autenticación con roles  
-- Creación de API REST  
-- Testing con JUnit y bases de datos reales  
-- Mejores prácticas en arquitectura de aplicaciones Java
-
----
-
 📫 **¿Quieres conectar conmigo?**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alejandro-amj/)  
 - 📧 Email: amj.parrales@gmail.com  
 - 🐙 [GitHub](https://github.com/AlexMajiA)
-
----
-
-🚀 **Mi objetivo:**  
-Incorporarme a un equipo de desarrollo donde pueda seguir aprendiendo, aplicar todo lo que he construido hasta ahora y aportar valor desde el primer día.
 
 ---
 
