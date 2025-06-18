@@ -14,7 +14,8 @@ Cada proyecto que desarrollo es una oportunidad para crecer, resolver problemas 
 
 ### 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMajiA&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMajiA&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMajiA&layout=compact&hide=batchfile,shell,haskell&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
