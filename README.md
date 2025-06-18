@@ -73,7 +73,6 @@ Cada proyecto que desarrollo es una oportunidad para crecer, resolver problemas 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alejandro-amj/)  
 - 📧 Email: amj.parrales@gmail.com  
-- 🐙 [GitHub](https://github.com/AlexMajiA)
 
 ---
 
