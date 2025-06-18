@@ -56,7 +56,7 @@ Cada proyecto que desarrollo es una oportunidad para crecer, resolver problemas 
 
 📌 **Proyectos destacados**
 
-- 🌐 Gestor de empleados web con Spring Boot (en desarrollo)
+- 🌐 .[Gestor de empleados web con Spring Boot](https://github.com/AlexMajiA/ControlPersonalEnterprise) (en desarrollo)
    App web con Spring Boot, Thymeleaf y Bootstrap para gestionar empleados que será implantado en una empresa real.
   
 - 🧾 [Gestor de empleados con Java Swing y PostgreSQL](https://github.com/AlexMajiA/Gestor-de-empleados)  
