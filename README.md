@@ -22,12 +22,7 @@ Cada proyecto que desarrollo es una oportunidad para crecer, resolver problemas 
 - **Desarrollo móvil**: Android (Java)  
 - **Sistemas operativos**: Windows 10/11, Windows Server 2019, Linux  
 - **ERP**: Dynamics 365 Business Central (5 años como usuario)
-
----
-
-### 🛠️ Lenguajes y herramientas
-
-<p align="left">
+  <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
@@ -40,6 +35,7 @@ Cada proyecto que desarrollo es una oportunidad para crecer, resolver problemas 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
 </p>
 
+---
 ### 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMajiA&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
