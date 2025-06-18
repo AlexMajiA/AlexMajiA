@@ -12,6 +12,12 @@ Cada proyecto que desarrollo es una oportunidad para crecer, resolver problemas 
 
 ---
 
+### 📊 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMajiA&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 💻 **Tecnologías que utilizo**
 
 - **Lenguajes**: Java, SQL, PL/SQL, JavaScript, XML  
@@ -36,9 +42,6 @@ Cada proyecto que desarrollo es una oportunidad para crecer, resolver problemas 
 </p>
 
 ---
-### 📊 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMajiA&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 📚 **Formación destacada**
 
@@ -72,17 +75,6 @@ Cada proyecto que desarrollo es una oportunidad para crecer, resolver problemas 
 - Creación de API REST  
 - Testing con JUnit y bases de datos reales  
 - Mejores prácticas en arquitectura de aplicaciones Java
-
----
-
-🧠 **Habilidades adicionales**
-
-- Gestión de proyectos y tareas  
-- Resolución de problemas complejos  
-- Trabajo en equipo y comunicación  
-- Adaptabilidad a nuevas tecnologías  
-- Atención al detalle  
-- Formación continua en inglés  
 
 ---
 
