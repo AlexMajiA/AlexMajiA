@@ -58,15 +58,6 @@ Cada proyecto que desarrollo es una oportunidad para crecer, resolver problemas 
 
 - 🌐 [Gestor de empleados web con Spring Boot](https://github.com/AlexMajiA/ControlPersonalEnterprise)  
   App con Spring Boot, Thymeleaf y Bootstrap para gestionar empleados, pensada para implantarse en una empresa real. *(En desarrollo)*
-  
-- 🧾 [Gestor de empleados con Java Swing y PostgreSQL](https://github.com/AlexMajiA/Gestor-de-empleados)  
-  CRUD completo con conexión a base de datos, interfaz Swing y lógica de negocio modular.
-
-- 📱 [Aplicación Android con sensores y navegador integrado](https://github.com/AlexMajiA/App-Android)  
-  App móvil que gestiona sensores del dispositivo, navegación web embebida y contenido multimedia.
-
-- ⚙️ [Servidor Web multihilo con conexión SSL (cliente/servidor)](https://github.com/AlexMajiA/ServidorWeb-Socket-SSL)  
-  Arquitectura concurrente, sincronización de hilos y comunicación segura.
 
 📌 *Estoy en proceso de subir nuevos proyectos web con Spring Boot. ¡Sígueme para no perderte nada!*
 
