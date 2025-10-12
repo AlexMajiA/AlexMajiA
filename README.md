@@ -41,7 +41,7 @@ Cada proyecto que desarrollo es una oportunidad para crecer, resolver problemas 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/375551/bigquery.svg" alt="BigQuery" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/2530/2530064.png" alt="Snowflake" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/1021260?s=200&v=4" alt="DBT" width="40" height="40"/>
+  
 </p>
 
 ---
