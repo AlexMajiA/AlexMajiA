@@ -22,9 +22,9 @@ Cada proyecto que desarrollo es una oportunidad para crecer, resolver problemas 
 
 - **Lenguajes**: Java, SQL, PL/SQL, JavaScript, XML  
 - **Frameworks y librerías**: Spring Boot, Spring Framework, Hibernate, JavaFX, Swing, JDBC, JUnit  
-- **Bases de datos**: PostgreSQL, MySQL, Oracle, MongoDB, NeoDatis, Db4o  
-- **Herramientas**: Git, GitHub, XAMPP, GlassFish, JasperReports  
-- **Desarrollo web**: HTML, CSS  
+- **Bases de datos**: BigQuery, Snowflake, PostgreSQL, MySQL, Oracle, MongoDB, NeoDatis, Db4o  
+- **Herramientas**: DBT, Git, GitHub, XAMPP, GlassFish, JasperReports, CrystalReports
+- **Desarrollo web (básico)**: HTML, CSS  
 - **Desarrollo móvil**: Android (Java)  
 - **Sistemas operativos**: Windows 10/11, Windows Server 2019, Linux  
 - **ERP**: Dynamics 365 Business Central (5 años como usuario)
