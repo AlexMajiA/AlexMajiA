@@ -5,8 +5,9 @@
 
 🎯 **Sobre mí**
 
-Después de 19 años en el sector industrial, decidí dar un giro en mi carrera para dedicarme a lo que siempre me ha apasionado: el desarrollo de software.  
-Hoy soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma y me estoy especializando como desarrollador backend con **Java** y **Spring Boot**.  
+- **+19 años** en sector industrial → **Desarrollador Backend** → **Data Engineer**
+- Enfoque en construir pipelines de datos robustos y aplicaciones escalables
+- Combinación única de experiencia industrial y tecnológica 
 
 Cada proyecto que desarrollo es una oportunidad para crecer, resolver problemas reales y seguir aprendiendo. Creo en el esfuerzo constante, en la mejora continua y en el poder de adaptarse a los cambios.
 
