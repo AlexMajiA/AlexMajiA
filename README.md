@@ -48,21 +48,13 @@ Cada proyecto que desarrollo es una oportunidad para crecer, resolver problemas 
 
 📚 **Formación destacada**
 
-- Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) – 2025  
-- Fundamentos de Java – Oracle  
-- Spring Framework 6 & Spring Boot 3 – Udemy  
-- Fundamentos de GNU/Linux – Linux Professional Institute  
-- Fundamentos en Windows 10 – Microsoft IT Academy Program  
-- Fundamentos de ERP Dynamics 365 – Oracle  
-
----
-
-📌 **Proyectos destacados**
-
-- 🌐 [Gestor de empleados web con Spring Boot](https://github.com/AlexMajiA/ControlPersonalEnterprise)  
-  App con Spring Boot, Thymeleaf y Bootstrap para gestionar empleados, pensada para implantarse en una empresa real. *(En desarrollo)*
-
-📌 *Estoy en proceso de subir nuevos proyectos web con Spring Boot. ¡Sígueme para no perderte nada!*
+•	2025 | Data Engineering Presencial (Snowflake, BigQuery, Data Pipelines, Modelado) - Cívica
+•	2025 | Ciberseguridad Avanzada en Entornos de las Tecnologías de la Operación (OT) - Hedima
+•	2025 | Fundamentos de Dynamics 365 ERP - Oracle
+•	2025 | Cimientos de Java - Java Foundations - Oracle
+•	2025 | Spring Framework 6 & Spring boot 3 – Udemy
+•	2024 | Fundamentos en GNU /Linux - Linux Professional Institute
+•	2024 | Fundamentos en Windows 10 - Microsoft IT Academy Program
 
 ---
 
