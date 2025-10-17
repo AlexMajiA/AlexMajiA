@@ -48,13 +48,13 @@ Cada proyecto que desarrollo es una oportunidad para crecer, resolver problemas 
 
 📚 **Formación destacada**
 
-•	2025 | Data Engineering Presencial (Snowflake, BigQuery, Data Pipelines, Modelado) - Cívica
-•	2025 | Ciberseguridad Avanzada en Entornos de las Tecnologías de la Operación (OT) - Hedima
-•	2025 | Fundamentos de Dynamics 365 ERP - Oracle
-•	2025 | Cimientos de Java - Java Foundations - Oracle
-•	2025 | Spring Framework 6 & Spring boot 3 – Udemy
-•	2024 | Fundamentos en GNU /Linux - Linux Professional Institute
-•	2024 | Fundamentos en Windows 10 - Microsoft IT Academy Program
+- **2025** | Data Engineering Presencial (Snowflake, BigQuery, Data Pipelines, Modelado) - Cívica
+- **2025** | Ciberseguridad Avanzada en Entornos de las Tecnologías de la Operación (OT) - Hedima
+- **2025** | Fundamentos de Dynamics 365 ERP - Oracle
+- **2025** | Cimientos de Java - Java Foundations - Oracle
+- **2025** | Spring Framework 6 & Spring boot 3 – Udemy
+- **2024** | Fundamentos en GNU/Linux - Linux Professional Institute
+- **2024** | Fundamentos en Windows 10 - Microsoft IT Academy Program
 
 ---
 
