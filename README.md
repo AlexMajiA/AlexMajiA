@@ -15,7 +15,7 @@ Cada proyecto que desarrollo es una oportunidad para crecer, resolver problemas 
 
 📊 **Tecnologías con las que trabajo**
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=taro-py&layout=compact&theme=dark)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AlexMajiA&layout=compact&theme=dark)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 ---
 
