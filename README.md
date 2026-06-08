@@ -65,7 +65,7 @@ Pipeline ELT end-to-end sobre el dataset Olist (ecommerce brasileño real, +100.
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
 | [dbt_snowflake_friends](https://github.com/AlexMajiA/dbt_snowflake_friends) | Pipeline ELT sobre dataset de la serie Friends. Proyecto base de arquitectura con dbt + Snowflake | Snowflake · dbt · SQL |
-| [Employee Management System](https://github.com/AlexMajiA) | Backend de gestión empresarial con arquitectura en capas, Spring Security y JPA | Java · Spring Boot |
+| [Employee Management System](https://github.com/AlexMajiA/ControlPersonalEnterprise) | Backend de gestión empresarial con arquitectura en capas, Spring Security y JPA | Java · Spring Boot |
 
 ---
 
