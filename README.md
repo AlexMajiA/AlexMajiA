@@ -51,7 +51,7 @@ Pipeline ELT end-to-end sobre el dataset Olist (ecommerce brasileño real, +100.
   <img src="https://www.svgrepo.com/show/375551/bigquery.svg" alt="BigQuery" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
@@ -85,3 +85,4 @@ Pipeline ELT end-to-end sobre el dataset Olist (ecommerce brasileño real, +100.
 
 
 ---
+![](https://komarev.com/ghpvc/?username=AlexMajiA&label=Profile%20views&color=0e75b6&style=flat)
