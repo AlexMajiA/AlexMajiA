@@ -36,7 +36,7 @@ Pipeline ELT end-to-end sobre el dataset Olist (ecommerce brasileño real, +100.
 ## 🛠️ Stack técnico
 
 **Data Engineering**
-`Snowflake` `dbt` `AWS S3` `Arquitectura Medallion` `ELT` `Modelado Dimensional` `SCD Type 2`
+`Snowflake` `GCP` `BigQuery` `dbt` `AWS S3` `Arquitectura Medallion` `ELT` `Modelado Dimensional` `SCD Type 2`
 
 **Bases de datos y SQL**
 `SQL Avanzado` `CTEs` `Window Functions` `BigQuery` `PostgreSQL` `MySQL`
